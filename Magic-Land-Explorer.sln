@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic-Land-Explorer", "Magic-Land-Explorer\Magic-Land-Explorer.csproj", "{1FF7FBD4-7DC6-42AD-B7C5-9344D5D7B058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF7FBD4-7DC6-42AD-B7C5-9344D5D7B058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF7FBD4-7DC6-42AD-B7C5-9344D5D7B058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF7FBD4-7DC6-42AD-B7C5-9344D5D7B058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF7FBD4-7DC6-42AD-B7C5-9344D5D7B058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615944E9-FF52-4644-9DC8-F79B28F08A3E}
+	EndGlobalSection
+EndGlobal
